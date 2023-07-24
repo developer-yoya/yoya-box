@@ -4,4 +4,4 @@ public class prac {
     public static void main(String[] args) {
         System.out.println("うんこ");
     }
-}nakaji2
+}nakaji3
