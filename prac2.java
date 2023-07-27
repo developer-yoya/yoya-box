@@ -1,5 +1,5 @@
 public class prac2 {
     public static void main(String[] args) {
-        System.out.println("うんこ");
+        System.out.println("うんこうんこうんこ");
     }
 }
