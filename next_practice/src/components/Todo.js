@@ -1,6 +1,7 @@
 import List from "./List";
 import Form from "./Form";
 import { useState } from "react";
+import { ChakraProvider } from "@chakra-ui/react";
 
 const Todo = () => {
 

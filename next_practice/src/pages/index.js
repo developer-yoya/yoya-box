@@ -11,6 +11,7 @@ const Example = () => {
     const [countA,setCountA] = useState(0);
     const [countB,setCountB] = useState(0);
 
+    
     const toggleComponent = () => {
         setToggle(prev => !prev)
     }
@@ -50,6 +51,8 @@ const Example = () => {
 
             <h3>ToDoアプリ</h3>
             <Todo/>
+
+            
         </>
     )
 }
